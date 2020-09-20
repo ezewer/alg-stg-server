@@ -1,0 +1,8 @@
+{
+  "name": "simulate-bitfinex-api-node",
+  "version": "1.0.0",
+  "description": "Simulate the WS2 connection to bitfinex api node",
+  "main": "index.js",
+  "author": "Ezequiel Wernicke",
+  "license": "ISC"
+}
